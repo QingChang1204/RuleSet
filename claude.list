@@ -1,10 +1,10 @@
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,bard.google.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,anthropic.com
