@@ -5,6 +5,9 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,chatgpt.com
