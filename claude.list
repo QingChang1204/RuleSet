@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,pi.ai
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-KEYWORD,claude
