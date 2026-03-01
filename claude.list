@@ -2,6 +2,7 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,bard.google.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,cdn.usefathom.com
+DOMAIN,antigravity-unleash.goog
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,gravatar.com
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,ab.chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,github.com
@@ -29,6 +31,7 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,pi.ai
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,npmjs.org
@@ -38,3 +41,4 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,antigravity
